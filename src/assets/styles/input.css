@@ -1,0 +1,12 @@
+@import url('https://fonts.cdnfonts.com/css/tex-gyre-adventor');
+@import url('https://v1.fontapi.ir/css/SFProDisplay');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Francisco';
+    src: url(/src/assets/fonts/SFUIText/SFUIText-SemiboldItalic.otf);
+}
+
+
+
